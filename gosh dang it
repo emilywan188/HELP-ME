@@ -44,3 +44,14 @@ public class FracCalc {
 
 	 
 }
+
+
+
+
+
+
+
+String stringArray[] = str.split(" ");
+String firstFraction = stringArray[0];
+String secondFraction = stringArray[1];
+String thirdFraction = stringArray[2];
